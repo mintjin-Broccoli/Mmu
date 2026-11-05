@@ -1,6 +1,6 @@
 // 파일을 수정해서 다시 올릴 때마다 아래 버전 숫자를 올리세요 (v2 -> v3)
 // 방식: 인터넷이 되면 항상 최신 파일을 받고, 오프라인이면 저장된 파일을 씁니다.
-const CACHE = 'haepang-v5';
+const CACHE = 'haepang-v7';
 const FILES = ['./', './index.html', './manifest.json', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
